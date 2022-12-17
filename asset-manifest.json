@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/nsdwebsite/static/css/main.bb5f73d5.chunk.css",
+    "main.js": "/nsdwebsite/static/js/main.43d4a8d2.chunk.js",
+    "main.js.map": "/nsdwebsite/static/js/main.43d4a8d2.chunk.js.map",
+    "runtime-main.js": "/nsdwebsite/static/js/runtime-main.26424bb8.js",
+    "runtime-main.js.map": "/nsdwebsite/static/js/runtime-main.26424bb8.js.map",
+    "static/css/2.c4e73993.chunk.css": "/nsdwebsite/static/css/2.c4e73993.chunk.css",
+    "static/js/2.917f5299.chunk.js": "/nsdwebsite/static/js/2.917f5299.chunk.js",
+    "static/js/2.917f5299.chunk.js.map": "/nsdwebsite/static/js/2.917f5299.chunk.js.map",
+    "static/js/3.514eb23b.chunk.js": "/nsdwebsite/static/js/3.514eb23b.chunk.js",
+    "static/js/3.514eb23b.chunk.js.map": "/nsdwebsite/static/js/3.514eb23b.chunk.js.map",
+    "index.html": "/nsdwebsite/index.html",
+    "static/css/2.c4e73993.chunk.css.map": "/nsdwebsite/static/css/2.c4e73993.chunk.css.map",
+    "static/css/main.bb5f73d5.chunk.css.map": "/nsdwebsite/static/css/main.bb5f73d5.chunk.css.map",
+    "static/js/2.917f5299.chunk.js.LICENSE.txt": "/nsdwebsite/static/js/2.917f5299.chunk.js.LICENSE.txt",
+    "static/media/channelsurf.4997a7bb.mp4": "/nsdwebsite/static/media/channelsurf.4997a7bb.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26424bb8.js",
+    "static/css/2.c4e73993.chunk.css",
+    "static/js/2.917f5299.chunk.js",
+    "static/css/main.bb5f73d5.chunk.css",
+    "static/js/main.43d4a8d2.chunk.js"
+  ]
+}
